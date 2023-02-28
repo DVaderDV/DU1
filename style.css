@@ -1,6 +1,6 @@
 h1 {color: coral;}
 .ja img {
-    border-radius: 25%;
-    height: 300 px
-    weight: auto;
+    border-radius: 50%;
+    width: 200px; 
+    margin: 0px 30px 0 px;
 }
