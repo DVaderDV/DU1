@@ -1,2 +1,4 @@
 h1 {color: coral;}
-img {border-radius: 25%;}
+img {border-radius: 25%;
+height: 25%
+weight: auto;}
