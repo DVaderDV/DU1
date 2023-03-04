@@ -37,6 +37,7 @@ footer{
 }
 a{
     color:#F6F4D2;
+    margin: 50px;
 }
 a:hover{color: #F19C79 ;}
 section{
@@ -46,10 +47,11 @@ section{
 .ja,
 .zkusenosti,
 .zajmy{
-    background-color: #F19C79;
-    color:#4A5043;
+    background-color:#E85F5C;
+    color:#F6F4D2;
 }
-p{
+p,
+ul{
     padding-left: 250px;
 }
 .zkusenosti,
@@ -61,3 +63,7 @@ p{
     font-weight: 200;
 }
 
+nav{
+    font-size: 30px;
+    font-weight: 50;
+}
